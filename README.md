@@ -2,7 +2,7 @@
 
 ## Agenda (preliminary)
 
-09:00 - 10:00 Intro Remote Sensing & ML [Ribana]
+09:00 - 10:00 Intro Remote Sensing & ML [Ribana] Current slides: https://uni-bonn.sciebo.de/s/G5n4QhUPWYU1prw
 
 10:30 - 11:30 Intro Neural Networks / Deep Learning [Hugo] Based on https://docs.google.com/presentation/d/1dxaM8_2Bz7BKPoFQQvIT-0v2SsA0NGLqrkqJxQYuGwA/edit 
 
