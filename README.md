@@ -12,3 +12,6 @@ slides: https://docs.google.com/presentation/d/1yXBRKkhXZDJQYr4-PmjuG5xXvKyuz9ea
 13:00 - 14:00 Lab [Ribana/Johannes, support from Josef/Hugo]
 
 14:30-16:00 Lecture [Jürgen]
+
+## Zoom Link for the lecture
+https://uni-bonn.zoom.us/j/64402028535?pwd=L3R5dkRkMDFPNjcwYjFXZHNmKzhvUT09 
