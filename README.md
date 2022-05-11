@@ -1,6 +1,6 @@
 # DETECT_lecture_ML_2022
 
-## Agenda (preliminary)
+## Agenda
 
 09:00 - 10:00 Intro Remote Sensing & ML [Ribana] Current slides: https://uni-bonn.sciebo.de/s/TOXVHN3VTAxSUzi
 
