@@ -4,11 +4,11 @@
 
 09:00 - 10:00 Intro Remote Sensing & ML [Ribana] 
     
-    Current slides: https://uni-bonn.sciebo.de/s/TOXVHN3VTAxSUzi
+    Slides: https://uni-bonn.sciebo.de/s/TOXVHN3VTAxSUzi
 
 10:30 - 11:30 Intro Neural Networks / Deep Learning [Hugo] 
 
-    slides: https://docs.google.com/presentation/d/1yXBRKkhXZDJQYr4-PmjuG5xXvKyuz9eatd8m0xZ9oeE/edit?usp=sharing
+    Slides: https://docs.google.com/presentation/d/1yXBRKkhXZDJQYr4-PmjuG5xXvKyuz9eatd8m0xZ9oeE/edit?usp=sharing
 
 11:30 - 12:00 Intro technical setup Colab for lab session [Hugo]
 
@@ -17,6 +17,8 @@
     See file: ex_detect_seminar_ml.ipynb
 
 14:30-16:00 Lecture [Jürgen]
+
+    Slides: https://uni-bonn.sciebo.de/s/IpIwXCq3bVMWPXu
 
 ## Zoom Link for the lecture
 https://uni-bonn.zoom.us/j/64402028535?pwd=L3R5dkRkMDFPNjcwYjFXZHNmKzhvUT09 
